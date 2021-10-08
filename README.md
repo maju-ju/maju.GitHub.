@@ -1,12 +1,12 @@
 # maju.GitHub.
 <html> 
 <head> 
-<title>Título da sua página</title>
-<meta name="description" content="Breve descrição da sua página">
-página">
+<title>site pessoal</title>
 </head> 
 <body>
  <img src="imagem.jpg"> 
-</body> 
+oi meu nome é maria julia, tenho 19 anos.
+ eu nasci em curitiba e ja moro em são paulo a 5 anos 
+ </body>
 </html
 
